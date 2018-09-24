@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59927" started-at="2018-09-24T13:12:53Z" finished-at="2018-09-24T13:13:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59927" started-at="2018-09-24T13:12:53Z" finished-at="2018-09-24T13:13:53Z">
+      <class name="Com.S2C.BaseClass.AddApplianceTest">
+        <test-method status="PASS" signature="setEnvironment()[pri:0, instance:Com.S2C.BaseClass.AddApplianceTest@5f2108b5]" name="setEnvironment" is-config="true" duration-ms="49275" started-at="2018-09-24T13:12:04Z" finished-at="2018-09-24T13:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnvironment -->
+        <test-method status="PASS" signature="waitTime()[pri:0, instance:Com.S2C.BaseClass.AddApplianceTest@5f2108b5]" name="waitTime" is-config="true" duration-ms="15005" started-at="2018-09-24T13:12:53Z" finished-at="2018-09-24T13:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitTime -->
+        <test-method status="PASS" signature="addApplianceTest()[pri:0, instance:Com.S2C.BaseClass.AddApplianceTest@5f2108b5]" name="addApplianceTest" duration-ms="6976" started-at="2018-09-24T13:13:08Z" finished-at="2018-09-24T13:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addApplianceTest -->
+        <test-method status="PASS" signature="waitTime()[pri:0, instance:Com.S2C.BaseClass.AddApplianceTest@5f2108b5]" name="waitTime" is-config="true" duration-ms="15003" started-at="2018-09-24T13:13:15Z" finished-at="2018-09-24T13:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitTime -->
+        <test-method status="PASS" signature="testApplianceModelNumbers()[pri:1, instance:Com.S2C.BaseClass.AddApplianceTest@5f2108b5]" name="testApplianceModelNumbers" duration-ms="22923" started-at="2018-09-24T13:13:30Z" finished-at="2018-09-24T13:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApplianceModelNumbers -->
+      </class> <!-- Com.S2C.BaseClass.AddApplianceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
